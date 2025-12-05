@@ -28,4 +28,4 @@ This project is based on an exercise from *Head First C#*, adapted and completed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/AnimalMatchingGame.git
+   git clone https://github.com/kevin-alxdr/animal-matching-game.git
